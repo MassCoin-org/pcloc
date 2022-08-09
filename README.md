@@ -1,2 +1,2 @@
 # pcloc
-Software we use at MassCoin to count the lines of code of our projects.
+Used to count lines of code in a directory.
